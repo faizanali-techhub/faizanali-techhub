@@ -30,5 +30,7 @@ I'm a Frontend Developer at Mentorsol, passionate about building responsive, use
 - GitHub: https://github.com/faizanali-techhub
 
 ---
+--- Portfolio---
+https://faizanali-official.vercel.app/
 
 ⭐ Thanks for visiting my profile!
