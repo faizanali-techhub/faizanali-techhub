@@ -1,6 +1,6 @@
 # Hi 👋, I'm Faizan Ali
 
-### Frontend Developer | React.js | Next.js | TypeScript
+### FullStack Developer | React.js | Next.js | TypeScript
 
 I'm a Frontend Developer at Mentorsol, passionate about building responsive, user-friendly web applications and modern digital experiences.
 
